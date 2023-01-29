@@ -1,7 +1,5 @@
 Name: Khun Thu Rein
 
-Student ID: 101186023
-
 Description of the program
 --------------------------
 This prograa take user input data such as evidence ID, room name,
