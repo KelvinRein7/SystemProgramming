@@ -1,5 +1,4 @@
 Author: Khun Thu Rein
-Student ID: 101186023
 
 Description of the program
 --------------------------
